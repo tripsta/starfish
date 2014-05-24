@@ -23,6 +23,10 @@
 		background: #BFFFDF;
 	}
 
+	img{
+		margin-left:30px;
+	}
+
 	body,input,textarea,select
 	{
 		font-family: 'Source Sans Pro';
@@ -1012,6 +1016,9 @@
 	
 		#features-wrapper p
 		{
+			text-align: left;
+		}
+		#features-wrapper p:first-child{
 			text-align: center;
 		}
 	
