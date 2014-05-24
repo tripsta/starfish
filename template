@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<!--
+	Strongly Typed 1.1 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Strongly Typed by HTML5 UP</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<meta name="viewport" content="width=1040" />
+		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700" rel="stylesheet" type="text/css" />
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/config.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/style.css" />
+		</noscript>
+	</head>
+	<body class="homepage">
+
+		<!-- Header Wrapper -->
+			<div id="header-wrapper">
+
+				<!-- Header -->
+					<div id="header" class="container">
+
+						<!-- Logo -->
+							<h1 id="logo"><a href="#"><img src="/img/starfish.png" /></a></h1>
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li class="active"><a class="fa fa-home" href="index.html"><span>Home Page</span></a></li>
+									<li>
+										<a href="/interesting-facts.html" class="fa fa-bar-chart-o"><span>Interesting Facts</span></a>
+									</li>
+								</ul>
+							</nav>
+
+					</div>
+
+			</div>
+			<div id="features-wrapper">
+			<p>We created this site in an effort to provide accurate and fun facts and info about our beloved starfish</p>
+			<img src="/img/interesting-facts.jpg">
+					<div>Spicies of the animal: class Asteroideae</div>
+			<div>Sub-species:crown-of-thorns starfish, northern Pacific sea star</div>
+			<div>Scientific classification details: </div>
+			<ul>
+				<li>Kingdom: Animalia</li>
+				<li>Phylum: Echinodemata</li>
+				<li>Subphylum: Asterozoa</li>
+			</ul>
+			</div>
+
+	</body>
+</html>
